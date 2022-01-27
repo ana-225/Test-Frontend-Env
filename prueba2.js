@@ -82,6 +82,6 @@ console.log(222, data);
       console.log(10,overvalues);
         
     }else{
-       console.log("esta malo")
+       console.log("no ingresa datos")
     }
 }}
